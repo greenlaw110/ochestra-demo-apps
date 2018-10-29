@@ -1,4 +1,4 @@
-### ACT Framework Demo Applications
+# ACT Framework Demo Applications
 
 Notice: 
 -------
