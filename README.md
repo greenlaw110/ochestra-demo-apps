@@ -1,20 +1,6 @@
 ### ACT Framework Demo Applications
 
-Usage:
+All of the demo apps in this repo are split to standalone repos, and moved to <https://github.com/act-gallery>.
 
-To start in dev mode:
+You can search and clone the demos there.
 
-```bash
-cd /path/to/a/app
-mvn clean compile exec:exec
-```
-
-To start in prod mode:
-
-```bash
-cd /path/to/a/app
-mvn clean package
-cd target/dist
-unzip *.zip
-./start
-```
